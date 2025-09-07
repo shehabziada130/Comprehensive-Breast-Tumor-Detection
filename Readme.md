@@ -1,4 +1,4 @@
-# Breast Cancer Analysis Network (BCAN)
+# Comprehensive Breast Tumor Detection 🎗️
 
 Breast cancer is one of the most common cancers worldwide. Early detection and accurate classification of tumors are crucial for improving patient outcomes.  
 This project implements an **end-to-end deep learning pipeline** for breast cancer detection and analysis, combining **mammography**, **histopathology**, and **MRI visualization** in a real-world clinical decision sequence.
