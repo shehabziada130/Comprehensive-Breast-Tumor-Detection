@@ -60,11 +60,6 @@ This project implements an **end-to-end deep learning pipeline** for breast canc
 - Pathology classifier provides secondary confirmation.  
 - MRI visualization enhances interpretability by overlaying tumor regions.  
 
-📈 **ROC Curves and Metrics**  
-
-🖼️ **Sample Mammogram Overlay**  
-
-🔥 **MRI Heatmap Visualization**  
 
 ---
 
